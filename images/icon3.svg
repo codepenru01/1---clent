@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="15px" viewBox="0 0 12 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Paid-trainings" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cards" transform="translate(-182.000000, -324.000000)" fill="#CCCCCC">
+            <g id="Group-16" transform="translate(182.000000, 323.000000)">
+                <path d="M6,1 C9.3137085,1 12,3.61167229 12,6.83333333 C12,8.98110736 10,12.0366629 6,16 C2,12.0366629 0,8.98110736 0,6.83333333 C0,3.61167229 2.6862915,1 6,1 Z M6,4.21428571 C4.49376886,4.21428571 3.27272727,5.41352299 3.27272727,6.89285714 C3.27272727,8.37219129 4.49376886,9.57142857 6,9.57142857 C7.50623114,9.57142857 8.72727273,8.37219129 8.72727273,6.89285714 C8.72727273,5.41352299 7.50623114,4.21428571 6,4.21428571 Z" id="map-marker"></path>
+            </g>
+        </g>
+    </g>
+</svg>
